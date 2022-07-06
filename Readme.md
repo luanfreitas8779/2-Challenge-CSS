@@ -21,10 +21,10 @@
   
   <p>Desktop:</p>
   
-  <img src="https://github.com/luanfreitas8779/Dev-Club/blob/master/Desafios/projeto-2%20css/assets/desktop.png?raw=true" alt="desktop-print">
+  <img src="https://github.com/luanfreitas8779/2-Challenge-CSS/blob/master/assets/desktop.png?raw=true">
   
   <p>Mobile:</p>
   
-  <img src="https://github.com/luanfreitas8779/Dev-Club/blob/master/Desafios/projeto-2%20css/assets/mobile.png?raw=true" alt="mobile-print">
+  <img src="https://github.com/luanfreitas8779/2-Challenge-CSS/blob/master/assets/mobile.png?raw=true">
   
   
